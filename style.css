@@ -7,3 +7,12 @@ body {
     height: 400px;
     width: auto;
 }
+
+#testimonial-section img {
+    height: 250px;
+    width: auto;
+}
+
+.testimonials {
+    margin-top: 75px;
+}
